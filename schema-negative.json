@@ -40,11 +40,11 @@
         "titles" : "LowTaxon",
         "datatype" : "string"
       }, {
-        "name" : "Order",
+        "name" : "targetOrderName",
         "titles" : "Order",
         "datatype" : "string"
       }, {
-        "name" : "Family",
+        "name" : "targetFamilyName",
         "titles" : "Family",
         "datatype" : "string"
       } ]
