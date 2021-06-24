@@ -1,0 +1,51 @@
+{
+      "columns" : [ {
+        "name" : "ERNntr",
+        "titles" : "ERNntr",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceTaxonName",
+        "titles" : "Pathogen",
+        "datatype" : "string"
+      }, {
+        "name" : "DateEntered",
+        "titles" : "DateEntered",
+        "datatype" : "string"
+      }, {
+        "name" : "DateModified",
+        "titles" : "DateModified",
+        "datatype" : "string"
+      }, {
+        "name" : "LogMaxDose",
+        "titles" : "LogMaxDose",
+        "datatype" : "string"
+      }, {
+        "name" : "targetStageName",
+        "titles" : "HostStageTested",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonName",
+        "titles" : "Host",
+        "datatype" : "string"
+      }, {
+        "name" : "Group",
+        "titles" : "Group",
+        "datatype" : "string"
+      }, {
+        "name" : "HighTaxon",
+        "titles" : "HighTaxon",
+        "datatype" : "string"
+      }, {
+        "name" : "LowTaxon",
+        "titles" : "LowTaxon",
+        "datatype" : "string"
+      }, {
+        "name" : "targetOrderName",
+        "titles" : "Order",
+        "datatype" : "string"
+      }, {
+        "name" : "targetFamilyName",
+        "titles" : "Family",
+        "datatype" : "string"
+      } ]
+}
