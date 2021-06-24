@@ -1,0 +1,22 @@
+{
+  "@context" : [ "http://www.w3.org/ns/csvw", {
+    "@language" : "en"
+  } ],
+  "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
+  "tables" : [ {
+    "@context" : [ "http://www.w3.org/ns/csvw", {
+      "@language" : "en"
+    } ],
+    "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
+    "url" : "csv/negative.csv",
+    "dcterms:bibliographicCitation" : "Failed inocurations indexed in negative.csv of Onstad, D.W. EDWIP: Ecological Database of the World's Insect Pathogens. Data provided by Onstad and transcribed by Tad Dallas .",
+    "delimiter" : ",",
+    "headerRowCount" : 1,
+    "null" : [ "" ],
+    "interactionTypeId" : "http://purl.obolibrary.org/obo/RO_0002556",
+    "interactionTypeName" : "pathogenOf",
+    "argumentTypeId" : "https://en.wiktionary.org/wiki/refute",
+    "argumentTypeName" : "refute",
+    "tableSchema" : "schema-negative.json" 
+  } ]
+}
